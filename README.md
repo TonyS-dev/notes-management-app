@@ -2,10 +2,9 @@
 
 A complete JavaScript notes management system with CRUD operations, category management, search functionality, and modern UI. Features advanced data structures, Object methods implementation, and comprehensive note organization capabilities.
 
-## 📋 Coder Information
+## 📋 About me
 
-- **Name:** Antonio Carlos Santiago Rodriguez
-- **Clan:** Macondo
+- **Name:** Antonio Santiago
 - **Email:** santiagor.acarlos@gmail.com
 
 ## 🚀 Project Description
