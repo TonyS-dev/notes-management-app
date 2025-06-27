@@ -7,7 +7,6 @@ A complete JavaScript notes management system with CRUD operations, category man
 - **Name:** Antonio Carlos Santiago Rodriguez
 - **Clan:** Macondo
 - **Email:** santiagor.acarlos@gmail.com
-- **Training:** JavaScript Module 3 - Week 2
 
 ## 🚀 Project Description
 
@@ -210,13 +209,6 @@ The application provides comprehensive console logging:
 - **Collaborative Features** - Share and collaborate on notes
 - **Rich Text Editor** - Enhanced text formatting options
 
-## 📝 Code Quality
-
-- **JSDoc Documentation** - Complete function documentation
-- **ES6+ Features** - Modern JavaScript syntax
-- **Modular Design** - Well-organized code structure
-- **Error Handling** - Comprehensive validation and error management
-- **Performance Optimized** - Efficient DOM manipulation and event handling
 
 ---
 
