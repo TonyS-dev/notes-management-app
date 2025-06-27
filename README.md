@@ -167,7 +167,7 @@ Object.entries(notesDatabase).forEach(([key, value]) => {
 
 1. **Download the project:**
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/TonyS-dev/notes-management-app.git
    cd notes-management-app
    ```
 
